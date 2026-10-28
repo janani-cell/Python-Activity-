@@ -1,4 +1,7 @@
 # Python Case Studies (41-50)
+PITAMBARA JANANI ACHAR
+CSD-2
+ROL NO.:26001491
 
 This repository contains Python solutions, algorithms, pseudocode, test cases, and problem statements for Case Studies 41 through 50. These projects focus on advanced data structures in Python, primarily utilizing **nested lists**, **tuples**, **matrices**, and **dictionary structures** to solve real-world analytical problems.
 
@@ -365,15 +368,4 @@ print("Longest segment:", longest_segment)
 print("Longest distance:", round(longest_distance, 2))
 ```
 
----
 
-## 💻 How to Run
-
-1. Make sure you have **Python 3.x** installed on your system.
-2. Clone or download this repository.
-3. Run any case study script individually from your terminal or IDE:
-
-```bash
-python case_41.py
-python case_50.py
-```
